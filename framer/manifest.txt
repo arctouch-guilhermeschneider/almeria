@@ -94,7 +94,6 @@ node_modules/@framer/clayton.form-input/code/Examples.tsx
 node_modules/@framer/clayton.form-input/README.md
 design/images/zkBhH5vviQvWF0SlUEV5NN9R5RE.jpg
 design/images/xxTMwYHvra8w3YWCiGc30XShVzI.png
-design/images/uBJhLhde5rka9vFfw5cyYrO8Hw.png
 design/images/tXmh7XZinoGXww0uqHWQKHhlnWA.png
 design/images/sFXJ0RwHtbTHAcqwUI9hb4v0h0.png
 design/images/rl5xV9ajHoZukkeMV28WEbKvl4.jpg
@@ -109,7 +108,6 @@ design/images/fpFFBrYoe3oLyQIpkh1dm67L2s.png
 design/images/fCng8pHDf3lqORwJndIrmG7F5o.png
 design/images/exhfsHwFI4SHUix8aZsBpC4cNI.png
 design/images/eh7gS0dCdtjZ47VxkRZuqj8n90.png
-design/images/dhxE3JP6gN8O5bw0OzJHzDYz8s.png
 design/images/dB8fGRREpBXCT7ErNPon7IO2jY.png
 design/images/cKCJed68iy2pik6mu07KZPmVM.jpg
 design/images/bhYLXBdK2abQBcPPOWxoTKQQ.png
